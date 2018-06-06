@@ -15,20 +15,21 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: Azure;
 }
 a:hover {
     text-decoration: underline;
+    color: Azure;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: Cornsilk;
+    color: Azure;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: Cornsilk;
+    color: Azure;
 }
 footer {
     border-top: 1px solid #d5d5d5;
